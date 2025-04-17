@@ -29,15 +29,6 @@ Tenho formação em **Análise de Sistemas** e **Processos Gerenciais**, e venho
 
 ---
 
-### 📈 Estatísticas GitHub
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ramandelli&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramandelli&layout=compact&theme=github_dark&hide_border=true"/>
-</div>
-
----
-
 ### 📫 Como me encontrar
 
 - 📧 Email: [adramandelli@gmail.com](mailto:adramandelli@gmail.com)  
@@ -45,10 +36,6 @@ Tenho formação em **Análise de Sistemas** e **Processos Gerenciais**, e venho
 
 ---
 
-### ✨ Curiosidade
-
 > "Transformar ideias em código é mais do que um trabalho — é criar soluções reais com criatividade e lógica."
 
----
 
-<p align="center">Obrigado por visitar meu perfil! ⭐</p>
